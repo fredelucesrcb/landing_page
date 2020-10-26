@@ -52,7 +52,7 @@ class Body extends Component {
                     </table>
 
                     <div className="more-info">
-                        <a href="#">
+                        <a href="#" className="more-info-link">
                             <i className="fas fa-info-circle"></i>More Information
                         </a>
                     </div>
