@@ -1,0 +1,11 @@
+.hero-image {
+    display: block;
+    margin: auto;
+    width: 100%;
+    height: auto;
+}
+
+.hero-container {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
