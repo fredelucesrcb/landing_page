@@ -1,13 +1,13 @@
 # React Landing Page
 
-Sample React Landing Page.
+Sample resposive landing page using react.
 
-## Prerequisites
+# Prerequisites
 
 NodeJS v10 or greater.
 
-### How to run
+# How to run
 
-1. run npm install.
-2. run npm start to start local server.
-3. open localhost:3000 in browser.
+1. run **npm install**.
+2. run **npm start** to start local server.
+3. open *localhost:3000* in browser.
