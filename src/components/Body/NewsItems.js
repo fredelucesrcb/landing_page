@@ -15,4 +15,8 @@ export const NewsItems = [
         title: "Fusce suscipit posuere sem pretium ultrices. Nullam finibus nisl non libero porttitor, eu commodo arcu lacinia. Sed.",
         date: "2013/04/10",
     },
+    {
+        title: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis bibendum neque. Curabitur.",
+        date: "2013/04/04",
+    },
 ]

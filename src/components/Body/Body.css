@@ -34,16 +34,15 @@
 
 .title-column {
     padding-left: 15px;
-    padding-bottom: 10px;
-
+    padding-bottom: 13px;
 }
 
 .date-column {
-    padding-bottom: 10px;
+    padding-bottom: 13px;
 }
 
 .news-table {
-    font-size: 1rem;
+    font-size: 0.9rem;
     margin-bottom: 40px;
 }
 
@@ -52,9 +51,15 @@
     align-items: center;
     justify-content: flex-end;
 }
+
 .more-info-link {
     color: #77C6E7;
     text-decoration: none;
+}
+
+.body-paragraph {
+    line-height: 1.5rem;
+    font-size: 0.9rem;
 }
 
 @media screen and (max-width: 960px) {

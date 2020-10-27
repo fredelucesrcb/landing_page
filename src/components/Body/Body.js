@@ -20,7 +20,7 @@ class Body extends Component {
                         </h4>
 
                     </div>
-                    <p>
+                    <p className="body-paragraph">
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a lacinia dui. Pellentesque quis pellentesque ligula. Duis sit amet purus id ligula commodo placerat. Nunc a mauris sed ex porta lacinia. Aenean vel elementum erat. Ut non quam eu ipsum varius rutrum a vitae ligula. Mauris eget tincidunt tellus. Aenean luctus, velit a lacinia molestie, erat elit interdum leo, non consectetur dui nisl consequat leo. Proin quis sapien eleifend, convallis orci at, vestibulum nibh. Nunc scelerisque lacus ac turpis hendrerit eleifend. Nam vel porttitor metus, in vestibulum ex. Donec urna justo, imperdiet id dictum non, pharetra id est. Proin facilisis ipsum quis lorem mollis, id tempus sapien congue. Nullam placerat nisl vitae augue rutrum, ac interdum lorem aliquet. Vivamus lectus odio, gravida vitae feugiat nec, iaculis quis mi. Proin venenatis mauris dolor, at aliquet lectus efficitur eu.
                     </p>
                 </div>
